@@ -1,0 +1,27 @@
+* {
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.pp4 {
+  width: 190px;
+  border: 1px solid #fff;
+  justify-content: center;
+  background-color: #ff49ff;
+}
+
+.pp4 p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: aqua;
+}
